@@ -1,0 +1,7 @@
+EN or_2 NULL /home/antoniomontgue/antoniomontgue/cpu/or_2.vhd sub00/vhpl04 1700505892
+AR flipflop_d behavioral /home/antoniomontgue/antoniomontgue/cpu/flipflopD.vhd sub00/vhpl01 1700505753
+EN flipflop_dcebd NULL /home/antoniomontgue/antoniomontgue/cpu/flipflopD.vhd sub00/vhpl06 1700505752
+AR or_2 behavioral /home/antoniomontgue/antoniomontgue/cpu/or_2.vhd sub00/vhpl05 1700505893
+AR registrador_32 behavioral /home/antoniomontgue/antoniomontgue/cpu/registrador_32.vhd sub00/vhpl03 1700505854
+EN flipflop_d NULL /home/antoniomontgue/antoniomontgue/flipflop_as/asffd.vhd sub00/vhpl00 1699473580
+EN registrador_32 NULL /home/antoniomontgue/antoniomontgue/cpu/registrador_32.vhd sub00/vhpl02 1700505853

@@ -1,0 +1,23 @@
+V3 12
+FL /home/antoniomontgue/antoniomontgue/cpu/flipflopD.vhd 2023/11/20.15:42:27 P.20131013
+EN work/flipflop_dCEBD 1700505752 \
+      FL /home/antoniomontgue/antoniomontgue/cpu/flipflopD.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/flipflop_d/Behavioral 1700505753 \
+      FL /home/antoniomontgue/antoniomontgue/cpu/flipflopD.vhd EN work/flipflop_d 1699473580
+FL /home/antoniomontgue/antoniomontgue/cpu/or_2.vhd 2023/11/20.15:38:52 P.20131013
+EN work/or_2 1700505892 FL /home/antoniomontgue/antoniomontgue/cpu/or_2.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/or_2/Behavioral 1700505893 \
+      FL /home/antoniomontgue/antoniomontgue/cpu/or_2.vhd EN work/or_2 1700505892
+FL /home/antoniomontgue/antoniomontgue/cpu/registrador_32.vhd 2023/11/20.15:44:08 P.20131013
+EN work/registrador_32 1700505853 \
+      FL /home/antoniomontgue/antoniomontgue/cpu/registrador_32.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/registrador_32/Behavioral 1700505854 \
+      FL /home/antoniomontgue/antoniomontgue/cpu/registrador_32.vhd \
+      EN work/registrador_32 1700505853 CP flipflop_dCEBD
+FL /home/antoniomontgue/antoniomontgue/flipflop_as/asffd.vhd 2023/11/08.16:58:48 P.20131013
+EN work/flipflop_d 1699473580 \
+      FL /home/antoniomontgue/antoniomontgue/flipflop_as/asffd.vhd \
+      PB ieee/std_logic_1164 1381692176

@@ -1,0 +1,29 @@
+Command line:
+   registrador_32_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  38249
+
+Wed Nov  8 17:04:50 2023
+
+
+ Elaboration Time: 0.04 sec
+
+ Current Memory Usage: 193.454 Meg
+
+ Total Signals          : 202
+ Total Nets             : 99
+ Total Signal Drivers   : 68
+ Total Blocks           : 67
+ Total Primitive Blocks : 33
+ Total Processes        : 34
+ Total Traceable Variables  : 41
+ Total Scalar Nets and Variables : 492
+Total Line Count : 172
+
+ Total Simulation Time: 0.2 sec
+
+ Current Memory Usage: 268.956 Meg
+
+Wed Nov  8 17:05:50 2023
+
