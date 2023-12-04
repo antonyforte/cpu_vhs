@@ -1,1 +1,1 @@
--intstyle "ise" -incremental -o "/home/antoniomontgue/antoniomontgue/cpu/registrador_32_tb_isim_beh.exe" -prj "/home/antoniomontgue/antoniomontgue/cpu/registrador_32_tb_beh.prj" "work.registrador_32_tb" 
+-intstyle "ise" -incremental -o "/home/antoniomontgue/antoniomontgue/cpu/Unidade_controle_tb_isim_beh.exe" -prj "/home/antoniomontgue/antoniomontgue/cpu/Unidade_controle_tb_beh.prj" "work.Unidade_controle_tb" 

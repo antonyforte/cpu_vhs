@@ -29,25 +29,25 @@ use IEEE.STD_LOGIC_1164.ALL;
 --library UNISIM;
 --use UNISIM.VComponents.all;
 
-entity flipflop_dCEBD is
+entity flipflop_DCEBS is
 
 	port(D,Clk,Clear,Enable : in std_logic;
 			Q, Qb : out std_logic);
 
-end flipflop_dCEBD;
+end flipflop_DCEBS;
 
-architecture Behavioral of flipflop_d is
+architecture Behavioral of flipflop_DCEBS is
 
 begin
 
-	flipflop_dCEBD : process(Clk,Clear)
+	flipflop_DCEBS : process(Clk,Clear)
 	begin
 	
 	if Clear = '1' then
 		Q <= '0';
 		Qb <= '1';
 		
-	elsif falling_edge(Clk) and Enable = '1' then
+	elsif rising_edge(Clk) and Enable = '1' then
 		Q <= D;
 	
 		Qb <= not D;

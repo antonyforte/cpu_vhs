@@ -5,5 +5,32 @@
      behavior or data corruption.  It is strongly advised that
      users do not edit the contents of this file. -->
 <messages>
+<msg type="warning" file="HDLParsers" num="3516" delta="new" >Found error in file &quot;<arg fmt="%s" index="1">/home/antoniomontgue/antoniomontgue/cpu/bancoR.vhd</arg>&quot;. 
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3458" delta="new" >Because of erroneous VHDL file(s), automatic determination of correct order of compilation of files in project file &quot;<arg fmt="%s" index="1">/home/antoniomontgue/antoniomontgue/cpu/bancoR_vhdl.prj</arg>&quot; may be inaccurate. Please put the files in the project file in correct order with keyword &apos;nosort&apos; at end of the project file, or compile your vhdl file(s) individually to find and fix the error(s) in your vhdl file(s). 
+</msg>
+
+<msg type="error" file="HDLParsers" num="164" delta="new" >&quot;<arg fmt="%s" index="1">/home/antoniomontgue/antoniomontgue/cpu/bancoR.vhd</arg>&quot; Line <arg fmt="%d" index="2">69</arg>. <arg fmt="%s" index="3">parse error, unexpected PORT</arg>
+</msg>
+
+<msg type="error" file="HDLParsers" num="164" delta="new" >&quot;<arg fmt="%s" index="1">/home/antoniomontgue/antoniomontgue/cpu/bancoR.vhd</arg>&quot; Line <arg fmt="%d" index="2">73</arg>. <arg fmt="%s" index="3">parse error, unexpected IN</arg>
+</msg>
+
+<msg type="error" file="HDLParsers" num="3312" delta="new" >&quot;<arg fmt="%s" index="1">/home/antoniomontgue/antoniomontgue/cpu/bancoR.vhd</arg>&quot; Line <arg fmt="%d" index="2">76</arg>. Undefined symbol &apos;<arg fmt="%s" index="3">Entrada</arg>&apos;.
+</msg>
+
+<msg type="error" file="HDLParsers" num="1209" delta="new" >&quot;<arg fmt="%s" index="1">/home/antoniomontgue/antoniomontgue/cpu/bancoR.vhd</arg>&quot; Line <arg fmt="%d" index="2">76</arg>. <arg fmt="%s" index="3">Entrada</arg>: Undefined symbol (last report in this block)
+</msg>
+
+<msg type="error" file="HDLParsers" num="3313" delta="new" >&quot;<arg fmt="%s" index="1">/home/antoniomontgue/antoniomontgue/cpu/bancoR.vhd</arg>&quot; Line <arg fmt="%d" index="2">78</arg>. Undefined symbol &apos;<arg fmt="%s" index="3">Clock</arg>&apos;.  Should it be: <arg fmt="%s" index="4">block</arg>?
+</msg>
+
+<msg type="error" file="HDLParsers" num="1209" delta="new" >&quot;<arg fmt="%s" index="1">/home/antoniomontgue/antoniomontgue/cpu/bancoR.vhd</arg>&quot; Line <arg fmt="%d" index="2">78</arg>. <arg fmt="%s" index="3">Clock</arg>: Undefined symbol (last report in this block)
+</msg>
+
+<msg type="error" file="HDLParsers" num="164" delta="new" >&quot;<arg fmt="%s" index="1">/home/antoniomontgue/antoniomontgue/cpu/bancoR.vhd</arg>&quot; Line <arg fmt="%d" index="2">78</arg>. <arg fmt="%s" index="3">parse error, unexpected IDENTIFIER, expecting COMMA or CLOSEPAR</arg>
+</msg>
+
 </messages>
 

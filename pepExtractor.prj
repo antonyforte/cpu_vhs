@@ -1,2 +1,1 @@
-work	"../flipflop_as/asffd.vhd"
-work	"registrador_32.vhd"
+work	"Unidade_controle.vhd"

@@ -38,7 +38,7 @@ end registrador_32;
 
 architecture Behavioral of registrador_32 is
 
-component flipflop_dCEBD is
+component flipflop_DCEBD is
 
 	port(D,Clk,Clear,Enable : in std_logic;
 			Q, Qb : out std_logic
@@ -50,7 +50,7 @@ begin
 
 
 flipflopsDCEBD : for i in 0 to 31 generate
-	flipflopDCEBD : flipflop_dCEBD port map(
+	flipflopDCEBD : flipflop_DCEBD port map(
 		D => Entrada(i),
 		Clk => Clock,
 		Clear => Clear,
@@ -58,6 +58,7 @@ flipflopsDCEBD : for i in 0 to 31 generate
 		Q => Saida(i)
 	);
 end generate;
+
 
 end Behavioral;
 

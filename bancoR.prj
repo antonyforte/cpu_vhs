@@ -1,0 +1,6 @@
+vhdl work "../Downloads/tipo.vhd"
+vhdl work "flipflopDCEBD.vhd"
+vhdl work "../Downloads/mux_32_x_32.vhd"
+vhdl work "registrador_32.vhd"
+vhdl work "decod5_32.vhd"
+vhdl work "bancoR.vhd"
