@@ -1,3 +1,0 @@
-vhdl work "../Downloads/mux4_vetor/mux2.vhd"
-vhdl work "mux5.vhd"
-vhdl work "mux5_tb.vhd"

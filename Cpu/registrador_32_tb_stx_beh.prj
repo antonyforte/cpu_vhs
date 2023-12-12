@@ -1,3 +1,0 @@
-vhdl isim_temp "../flipflop_as/asffd.vhd"
-vhdl isim_temp "registrador_32.vhd"
-vhdl isim_temp "registrador_32_tb.vhd"

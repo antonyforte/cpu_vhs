@@ -1,5 +1,0 @@
-vhdl isim_temp "../Downloads/mux4_vetor/mux2.vhd"
-vhdl isim_temp "../Downloads/SomadorLeo/Somador/Somador.vhd"
-vhdl isim_temp "../Downloads/mux4.vhd"
-vhdl isim_temp "ULA_1bit.vhd"
-vhdl isim_temp "ULA_1bit_tb.vhd"

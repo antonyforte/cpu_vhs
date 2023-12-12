@@ -1,3 +1,0 @@
-vhdl isim_temp "../Downloads/mux4_vetor/mux2.vhd"
-vhdl isim_temp "mux5.vhd"
-vhdl isim_temp "mux5_tb.vhd"
