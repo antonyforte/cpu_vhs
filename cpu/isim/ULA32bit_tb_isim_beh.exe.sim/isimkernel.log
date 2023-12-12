@@ -1,0 +1,29 @@
+Command line:
+   ULA32bit_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  42655
+
+Mon Dec 11 15:53:16 2023
+
+
+ Elaboration Time: 0.04 sec
+
+ Current Memory Usage: 196.538 Meg
+
+ Total Signals          : 1481
+ Total Nets             : 545
+ Total Signal Drivers   : 419
+ Total Blocks           : 346
+ Total Primitive Blocks : 221
+ Total Processes        : 415
+ Total Traceable Variables  : 66
+ Total Scalar Nets and Variables : 963
+Total Line Count : 421
+
+ Total Simulation Time: 0.09 sec
+
+ Current Memory Usage: 272.04 Meg
+
+Mon Dec 11 15:56:04 2023
+

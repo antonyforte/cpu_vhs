@@ -1,0 +1,5 @@
+xst -intstyle ise -ifn "/home/antoniomontgue/antoniomontgue/cpu/extensor_sinal.xst" -ofn "/home/antoniomontgue/antoniomontgue/cpu/extensor_sinal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s1200e-fg320-4 extensor_sinal.ngc extensor_sinal.ngd  
+map -intstyle ise -p xc3s1200e-fg320-4 -cm area -ir off -pr off -c 100 -o extensor_sinal_map.ncd extensor_sinal.ngd extensor_sinal.pcf 
+par -w -intstyle ise -ol high -t 1 extensor_sinal_map.ncd extensor_sinal.ncd extensor_sinal.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml extensor_sinal.twx extensor_sinal.ncd -o extensor_sinal.twr extensor_sinal.pcf 

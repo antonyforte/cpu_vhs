@@ -1,0 +1,2 @@
+vhdl work "desl_esq.vhd"
+vhdl work "desl_esq_tb.vhd"
