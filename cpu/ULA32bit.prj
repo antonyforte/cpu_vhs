@@ -1,0 +1,7 @@
+vhdl work "../Downloads/mux4_vetor/mux2.vhd"
+vhdl work "../Downloads/SomadorLeo/Somador/Somador.vhd"
+vhdl work "../Downloads/mux4.vhd"
+vhdl work "or_2.vhd"
+vhdl work "ULA_1bit.vhd"
+vhdl work "or_32bits.vhd"
+vhdl work "ULA32bit.vhd"

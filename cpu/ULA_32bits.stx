@@ -1,0 +1,48 @@
+Release 14.7 - xst P.20131013 (lin64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> 
+Parameter TMPDIR set to /home/antoniomontgue/antoniomontgue/cpu/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.03 secs
+ 
+--> 
+Parameter xsthdpdir set to /home/antoniomontgue/antoniomontgue/cpu/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.03 secs
+ 
+--> 
+WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "/home/antoniomontgue/antoniomontgue/Downloads/mux4_vetor/mux2.vhd" in Library work.
+Architecture behavioral of Entity mux2 is up to date.
+Compiling vhdl file "/home/antoniomontgue/antoniomontgue/Downloads/SomadorLeo/Somador/Somador.vhd" in Library work.
+Architecture behavioral of Entity somador is up to date.
+Compiling vhdl file "/home/antoniomontgue/antoniomontgue/Downloads/mux4.vhd" in Library work.
+Architecture behavioral of Entity mux4 is up to date.
+Compiling vhdl file "/home/antoniomontgue/antoniomontgue/cpu/ULA_1bit.vhd" in Library work.
+Architecture behavioral of Entity ula_1bit is up to date.
+Compiling vhdl file "/home/antoniomontgue/antoniomontgue/cpu/ULA_32bits.vhd" in Library work.
+Entity <ula_32bits> compiled.
+WARNING:HDLParsers:3350 - "/home/antoniomontgue/antoniomontgue/cpu/ULA_32bits.vhd" Line 62. Null range: 1 downto 30
+Entity <ULA_32bits> (Architecture <Behavioral>) compiled.
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.05 secs
+ 
+--> 
+
+
+Total memory usage is 470824 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    2 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

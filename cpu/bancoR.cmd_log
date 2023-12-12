@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/antoniomontgue/antoniomontgue/cpu/bancoR.xst" -ofn "/home/antoniomontgue/antoniomontgue/cpu/bancoR.syr" 

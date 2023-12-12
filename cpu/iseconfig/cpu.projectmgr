@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="2" owner="projectmgr" name="cpu" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/ULA1bit - Behavioral |home|antoniomontgue|antoniomontgue|ula32|ula1bit.vhd</ClosedNode>
+         <ClosedNode>/ULA32bit - Behavioral |home|antoniomontgue|antoniomontgue|cpu|ULA32bit.vhd</ClosedNode>
+         <ClosedNode>/ULA32bit - Behavioral |home|antoniomontgue|antoniomontgue|cpu|ULA32bit.vhd/ULA_0 - ULA_1bit - Behavioral/mux4ULA - mux4 - Behavioral</ClosedNode>
+         <ClosedNode>/ULA32bit - Behavioral |home|antoniomontgue|antoniomontgue|cpu|ULA32bit.vhd/ULA_31 - ULA_1bit - Behavioral</ClosedNode>
+         <ClosedNode>/ULA32bit - Behavioral |home|antoniomontgue|antoniomontgue|cpu|ULA32bit.vhd/ULA_32bits - ULA_1bit - Behavioral</ClosedNode>
+         <ClosedNode>/ULA32bit - Behavioral |home|antoniomontgue|antoniomontgue|cpu|ULA32bit.vhd/ors - or_32bits - Behavioral</ClosedNode>
+         <ClosedNode>/ULA_1bit - Behavioral |home|antoniomontgue|antoniomontgue|cpu|ULA_1bit.vhd/mux4ULA - mux4 - Behavioral</ClosedNode>
+         <ClosedNode>/bancoR - Behavioral |home|antoniomontgue|antoniomontgue|cpu|bancoR.vhd</ClosedNode>
+         <ClosedNode>/bancoR - Behavioral |home|antoniomontgue|antoniomontgue|cpu|bancoR.vhd/registrador - registrador_32 - Behavioral</ClosedNode>
+         <ClosedNode>/mux2_32 - Behavioral |home|antoniomontgue|antoniomontgue|cpu|mux2_32.vhd</ClosedNode>
+         <ClosedNode>/mux2_5 - Behavioral |home|antoniomontgue|antoniomontgue|cpu|mux2_5.vhd</ClosedNode>
+         <ClosedNode>/mux4 - Behavioral |home|antoniomontgue|antoniomontgue|Downloads|mux4.vhd</ClosedNode>
+         <ClosedNode>/pc - Behavioral |home|antoniomontgue|antoniomontgue|cpu|pc.vhd</ClosedNode>
+         <ClosedNode>/registrador_32 - Behavioral |home|antoniomontgue|antoniomontgue|cpu|registrador_32.vhd</ClosedNode>
+         <ClosedNode>/som32 - Behavioral |home|antoniomontgue|antoniomontgue|cpu|som32.vhd</ClosedNode>
+         <ClosedNode>/ula32b - Behavioral |home|antoniomontgue|antoniomontgue|ula32|ula32b.vhd</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>ULA32bit - Behavioral (/home/antoniomontgue/antoniomontgue/cpu/ULA32bit.vhd)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000001e7000000020000000000000000000000000200000064ffffffff000000810000000300000002000001e70000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>ULA32bit - Behavioral (/home/antoniomontgue/antoniomontgue/cpu/ULA32bit.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Design Utilities</ClosedNode>
+         <ClosedNode>Implement Design</ClosedNode>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f4000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f40000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000390000000040101000100000000000000000000000064ffffffff0000008100000000000000040000005800000001000000000000005d0000000100000000000000840000000100000000000002570000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>asffd.vhd</CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>work</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000128000000010001000100000000000000000000000064ffffffff000000810000000000000001000001280000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>work</CurrentItem>
+   </ItemView>
+   <SourceProcessView>000000ff0000000000000002000001830000015301000000060100000002</SourceProcessView>
+   <CurrentView>Implementation</CurrentView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/mux2_32_tb - behavior |home|antoniomontgue|antoniomontgue|cpu|mux2_32_tb.vhd</ClosedNode>
+         <ClosedNode>/mux2_5 - Behavioral |home|antoniomontgue|antoniomontgue|cpu|mux2_5.vhd</ClosedNode>
+         <ClosedNode>/pc - Behavioral |home|antoniomontgue|antoniomontgue|cpu|pc.vhd</ClosedNode>
+         <ClosedNode>/registrador_32 - Behavioral |home|antoniomontgue|antoniomontgue|cpu|registrador_32.vhd</ClosedNode>
+         <ClosedNode>/testbench - behavior |home|antoniomontgue|antoniomontgue|cpu|registrador_32_tb.vhd</ClosedNode>
+         <ClosedNode>/testbench - behavior |home|antoniomontgue|antoniomontgue|cpu|ula32b_tb.vhd</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>ULA32bit_tb - behavior (/home/antoniomontgue/antoniomontgue/cpu/ULA32bit_tb.vhd)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >1</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000002020000000100000001000000640000020b000000020000000000000000000000000200000064ffffffff0000008100000003000000020000020b0000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>ULA32bit_tb - behavior (/home/antoniomontgue/antoniomontgue/cpu/ULA32bit_tb.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f4000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f40000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Simulate Behavioral Model</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f4000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f40000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Simulate Behavioral Model</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Design Utilities</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f4000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f40000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Design Utilities</CurrentItem>
+   </ItemView>
+</Project>

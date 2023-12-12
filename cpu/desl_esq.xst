@@ -1,0 +1,5 @@
+set -tmpdir "/home/antoniomontgue/antoniomontgue/cpu/xst/projnav.tmp"
+set -xsthdpdir "/home/antoniomontgue/antoniomontgue/cpu/xst"
+elaborate
+-ifn desl_esq.prj
+-ifmt mixed

@@ -1,0 +1,3 @@
+vhdl work "flipflopDPED.vhd"
+vhdl work "flipflopD.vhd"
+vhdl work "pc.vhd"

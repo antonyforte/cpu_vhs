@@ -1,0 +1,36 @@
+Running: /opt/Xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -o /home/antoniomontgue/antoniomontgue/cpu/ULA32bit_tb_isim_beh.exe -prj /home/antoniomontgue/antoniomontgue/cpu/ULA32bit_tb_beh.prj work.ULA32bit_tb 
+ISim P.20131013 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "/home/antoniomontgue/antoniomontgue/cpu/../Downloads/mux4_vetor/mux2.vhd" into library work
+Parsing VHDL file "/home/antoniomontgue/antoniomontgue/cpu/../Downloads/SomadorLeo/Somador/Somador.vhd" into library work
+Parsing VHDL file "/home/antoniomontgue/antoniomontgue/cpu/../Downloads/mux4.vhd" into library work
+Parsing VHDL file "/home/antoniomontgue/antoniomontgue/cpu/or_2.vhd" into library work
+Parsing VHDL file "/home/antoniomontgue/antoniomontgue/cpu/ULA_1bit.vhd" into library work
+WARNING:HDLCompiler:946 - "/home/antoniomontgue/antoniomontgue/cpu/ULA_1bit.vhd" Line 67: Actual for formal port e is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "/home/antoniomontgue/antoniomontgue/cpu/ULA_1bit.vhd" Line 73: Actual for formal port e is neither a static name nor a globally static expression
+Parsing VHDL file "/home/antoniomontgue/antoniomontgue/cpu/or_32bits.vhd" into library work
+Parsing VHDL file "/home/antoniomontgue/antoniomontgue/cpu/ULA32bit.vhd" into library work
+Parsing VHDL file "/home/antoniomontgue/antoniomontgue/cpu/ULA32bit_tb.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 83996 KB
+Fuse CPU Usage: 780 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture behavioral of entity mux2 [mux2_default]
+Compiling architecture behavioral of entity Somador [somador_default]
+Compiling architecture behavioral of entity mux4 [mux4_default]
+Compiling architecture behavioral of entity ULA_1bit [ula_1bit_default]
+Compiling architecture behavioral of entity or_2 [or_2_default]
+Compiling architecture behavioral of entity or_32bits [or_32bits_default]
+Compiling architecture behavioral of entity ULA32bit [ula32bit_default]
+Compiling architecture behavior of entity ula32bit_tb
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 17 VHDL Units
+Built simulation executable /home/antoniomontgue/antoniomontgue/cpu/ULA32bit_tb_isim_beh.exe
+Fuse Memory Usage: 649628 KB
+Fuse CPU Usage: 810 ms
+GCC CPU Usage: 400 ms

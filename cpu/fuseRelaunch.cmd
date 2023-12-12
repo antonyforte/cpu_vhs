@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/antoniomontgue/antoniomontgue/cpu/ULA32bit_tb_isim_beh.exe" -prj "/home/antoniomontgue/antoniomontgue/cpu/ULA32bit_tb_beh.prj" "work.ULA32bit_tb" 
